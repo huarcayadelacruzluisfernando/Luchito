@@ -1,5 +1,5 @@
 body{
-    color: blueviolet;
+    color:grey;
     text-align: center;
     font-size: 19px;
     font-family: Helvetica;
@@ -15,4 +15,9 @@ body{
 }
 #container h1{
     font-size: 20px;
+}
+#cabecera{
+    color: white;
+    background-color:darkmagenta;
+    border: 1px solid black;
 }
